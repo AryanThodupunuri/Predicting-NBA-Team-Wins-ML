@@ -97,8 +97,6 @@ Data columns (total 20 columns):
  18  BLK        835 non-null    int64 
  19  TOV        835 non-null    int64 
 dtypes: int64(19), object(1)
-memory usage: 130.6+ KB
-None
 
 Summary statistics of the training dataset:
          SeasonEnd    Playoffs  ...         BLK          TOV
