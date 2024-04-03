@@ -1,5 +1,8 @@
 # NBA Win Prediction with Linear Regression
 
+## Authors:
+Aryan Thodupunuri, Jonas Lee, Jack Cignetti, and Bhavya Johar
+
 ## Introduction
 
 The objective of this project is to develop a linear regression model capable of predicting the number of wins for NBA teams based on their point differentials. The model will be trained using data from the 1980-2011 NBA seasons and validated with data from the 2022-2023 NBA season.
