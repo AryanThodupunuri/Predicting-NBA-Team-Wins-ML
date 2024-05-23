@@ -1,7 +1,7 @@
 # NBA Win Prediction with Linear Regression
 
 ## Authors:
-Aryan Thodupunuri, Jonas Lee, Jack Cignetti, and Bhavya Johar
+Aryan Thodupunuri, Nikkie Kapadia, Joe Scully
 
 ## Introduction
 
