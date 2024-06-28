@@ -7,6 +7,8 @@ Aryan Thodupunuri, Nikkie Kapadia, Joseph Scully
 
 The objective of this project is to develop a linear regression model capable of predicting the number of wins for NBA teams based on their point differentials. The model will be trained using data from the 1980-2011 NBA seasons and validated with data from the 2022-2023 NBA season.
 CSV Data is sourced from: https://www.kaggle.com/datasets/jpsdev/19802019-nba-team-stats
+
+
 Other sources used: 
 https://arxiv.org/pdf/1912.01574
 https://www.machinelearningnuggets.com/python-linear-regression/
