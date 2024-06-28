@@ -10,9 +10,9 @@ CSV Data is sourced from: https://www.kaggle.com/datasets/jpsdev/19802019-nba-te
 
 
 Other sources used: 
-https://arxiv.org/pdf/1912.01574
-https://www.machinelearningnuggets.com/python-linear-regression/
-https://cs229.stanford.edu/proj2016/report/PerriconeShawSwiechowicz-PredictingResultsforProfessionalBasketballUsingNBAAPIData.pdf
+- https://arxiv.org/pdf/1912.01574
+- https://www.machinelearningnuggets.com/python-linear-regression/
+- https://cs229.stanford.edu/proj2016/report/PerriconeShawSwiechowicz-PredictingResultsforProfessionalBasketballUsingNBAAPIData.pdf
 
 # Dataset
 The project utilizes two datasets:
