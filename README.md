@@ -5,8 +5,7 @@ Aryan Thodupunuri, Nikkie Kapadia, Joseph Scully
 
 ## Introduction
 
-The objective of this project is to develop a linear regression model capable of predicting the number of wins for NBA teams based on their point differentials. The model will be trained using data from the 1980-2011 NBA seasons and validated with data from the 2022-2023 NBA season.
-CSV Data is sourced from: https://www.kaggle.com/datasets/jpsdev/19802019-nba-team-stats
+The objective of this project is to develop a linear regression model capable of predicting the number of wins for NBA teams based on their point differentials. The model will be trained using data from the 1980-2011 NBA seasons and validated with data from the 2022-2023 NBA season. Point differential, defined as the difference between points scored and points conceded, is arguably one of the most crucial indicators of a team's overall performance throughout a season. The CSV dataset for the model is sourced from https://www.kaggle.com/datasets/jpsdev/19802019-nba-team-stats. The methodology involves loading and cleaning the data using Pandas, creating the key feature PointDiff by subtracting points conceded from points scored, and performing exploratory data analysis to evaluate the relevance of this feature in predicting wins. The dataset is split into training and testing sets to ensure effective model training and validation. A linear regression model is then trained using PointDiff as the predictor and the number of wins as the target, with performance evaluated through metrics like R-squared, MAE, MSE, and RMSE. Finally, we validate our model with data from the 2022-2023 NBA season to see how well it predicts recent outcomes, ensuring our model is robust and reliable.
 
 
 Other sources used: 
